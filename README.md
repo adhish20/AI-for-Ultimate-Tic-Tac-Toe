@@ -11,3 +11,7 @@ An Automated AI based Player for Ultimate Tic Toe ( some Rules changed ) impleme
 3. Manual Player vs Manual Player
 
 New Rules are as mentioned in the miniproject1_AI_revised2.pdf
+
+####Team Members
+1. Tarun Gupta
+2. Adhish Singla
